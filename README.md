@@ -8,3 +8,4 @@
 - 🔭 I’m currently studying on Holberton School.
 - 🌱 I’m currently learning different programming languages.
 - 📫 How to reach me: laura.barona04@gmail.com
+
