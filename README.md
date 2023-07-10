@@ -8,8 +8,3 @@
 - 🔭 I’m currently studying on Holberton School.
 - 🌱 I’m currently learning different programming languages.
 - 📫 How to reach me: laura.barona04@gmail.com
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natha0b_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natha0b_progress=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Natha0b&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
