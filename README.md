@@ -9,4 +9,5 @@
 - 🌱 I’m currently learning different programming languages.
 - 📫 How to reach me: laura.barona04@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/Natha0bDenverCoder1)](https://git.io/streak-stats)&theme=radical
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Natha0b&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
